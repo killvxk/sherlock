@@ -1,8 +1,10 @@
 APClips
 Airliners
+Anilist
 Apple Developer
 Apple Discussions
 Archive.org
+Blogger
 Chatujme.cz
 Codolio
 DeviantArt
@@ -27,7 +29,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 Vero
